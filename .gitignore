@@ -1,0 +1,93 @@
+# =====================================================
+# CREDENCIAIS — NUNCA COMMITAR NADA DESSAS PASTAS/PADROES
+# =====================================================
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+*.env
+
+# OAuth / tokens / chaves
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+token.*
+*_token.txt
+*_token.json
+refresh_token*
+access_token*
+service-account*.json
+service_account*.json
+
+# Pastas de credenciais (qualquer profundidade)
+credentials/
+.credentials/
+secrets/
+.secrets/
+
+# Google APIs
+google-ads.yaml
+google-ads.yml
+client_secret*.json
+client_secrets*.json
+*googleapis*.json
+
+# Meta / Facebook
+*meta_token*
+*fb_token*
+
+# LinkedIn
+*linkedin_token*
+
+# Configs gerais que costumam ter chave
+config.local.*
+local.config.*
+
+# =====================================================
+# Python
+# =====================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# =====================================================
+# Outputs locais
+# =====================================================
+output/
+exports/
+*.csv
+*.xlsx
+*.parquet
+!knowledge/**/*.csv
+
+# =====================================================
+# Sistema operacional
+# =====================================================
+.DS_Store
+Thumbs.db
+
+# =====================================================
+# Editores
+# =====================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================================================
+# Claude Code logs locais (NÃO incluem credenciais, mas são ruído)
+# =====================================================
+.claude/logs/
+.claude/cache/
+.claude/local/
