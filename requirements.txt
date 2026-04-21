@@ -9,7 +9,7 @@ facebook-business==21.0.5
 requests==2.32.3
 
 # Utils
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 pandas==2.2.3
 click==8.1.7
 rich==13.9.4
