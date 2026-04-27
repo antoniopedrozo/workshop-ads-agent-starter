@@ -2,93 +2,113 @@
 
 > **O que é este arquivo:** como você cobra. Impacta direto a copy de ad (mostrar preço ou não), o lance que vale a pena pagar por clique, e o tipo de lead que vale qualificar.
 >
-> Exemplo abaixo: AcmeRH. Substitua pelo seu.
+
 
 ---
 
 ## Modelo de cobrança
 
-Por funcionário ativo, por mês. Cobrança mensal recorrente em CNPJ.
+Modelo de monetização
 
-| Plano       | Preço por funcionário/mês | Contrato mínimo |
-|-------------|---------------------------|-----------------|
-| Starter     | R$ 15                     | 50 funcionários (R$ 750/mês) |
-| Growth      | R$ 12                     | 200 funcionários (R$ 2.400/mês) |
-| Scale       | R$ 9                      | 500 funcionários (R$ 4.500/mês) |
-| Enterprise  | sob consulta              | 1.000+ |
+O Bemm opera em modelo de revenue share sobre as antecipações realizadas.
 
-Setup: zero. Sem fee de implantação.
+A cada antecipação feita pelo médico, é aplicada uma taxa financeira
+Essa taxa é dividida entre:
+Bemm (infraestrutura, crédito, operação)
+Parceiro (software/gestora)
 
-Trial: 14 dias gratuitos com até 100 funcionários, sem cartão.
+👉 O parceiro monetiza diretamente o fluxo financeiro que já existe na sua base.
 
----
+Estrutura de receita
 
-## O que entra no preço (todos os planos)
+Fonte principal:
 
-- Pulse semanal automatizado via Slack/Teams
-- Dashboard pra RH e dashboard separado pra cada gestor
-- Templates de pesquisa (clima, eNPS, onboarding, offboarding)
-- Templates de 1:1 e feedback contínuo
-- Suporte por email em horário comercial
+Taxa de antecipação (% sobre valor antecipado)
 
----
+Divisão padrão:
 
-## O que muda por plano
+Bemm: operação + risco + funding
+Parceiro: distribuição + base + integração
 
-| Feature                          | Starter | Growth | Scale |
-|----------------------------------|---------|--------|-------|
-| Integração nativa Slack/Teams    | ✓       | ✓      | ✓     |
-| Integração com ATS (Gupy/Sólides)| -       | ✓      | ✓     |
-| API aberta (BI custom)           | -       | ✓      | ✓     |
-| Customer Success dedicado        | -       | -      | ✓     |
-| SSO SAML                         | -       | -      | ✓     |
-| Templates customizados           | -       | -      | ✓     |
+📌 Obs: o percentual exato varia por volume, perfil de risco e modelo de parceria.
 
----
+Faixas de monetização (referência)
+Volume mensal antecipado	Receita potencial parceiro
+R$ 100k	R$ X
+R$ 500k	R$ X
+R$ 1M+	R$ X
 
-## Cálculo rápido (pro assistente)
+👉 (preencher com dados reais depois — isso vira arma de venda)
 
-Pro ICP Tier 1 (100 a 300 funcionários, plano Growth):
-- 100 func × R$ 12 = R$ 1.200/mês = **R$ 14.400 ARR**
-- 200 func × R$ 12 = R$ 2.400/mês = **R$ 28.800 ARR**
-- 300 func × R$ 12 = R$ 3.600/mês = **R$ 43.200 ARR**
+Modelo de funding
 
-LTV médio (com churn anual de 12% e expansão de 8%): **3,2 anos**.
+O parceiro pode escolher entre dois modelos:
 
-LTV em reais por cliente Tier 1: **R$ 90.000**.
+1. Sem capital (default)
+Bemm fornece 100% do funding
+Parceiro recebe revenue share padrão
+Zero risco financeiro
+2. Com capital (opcional)
+Parceiro aloca capital na operação
+Aumenta participação no revenue share
+Retorno financeiro maior
 
----
+👉 Flexibilidade total de entrada e evolução
 
-## CAC alvo
+Custos para o parceiro
+❌ Sem custo de integração inicial
+ Sem custo fixo mensal
+Sem necessidade de equipe financeira dedicada
+Sem necessidade de capital
 
-Pro ICP Tier 1, mantemos LTV/CAC ≥ 3.
+Modelo 100% variável (ganha quando usa)
 
-CAC alvo: **R$ 30.000** por cliente Tier 1.
+Unit economics (visão simplificada)
 
-Isso significa que conseguimos pagar até **R$ 600 por SQL** (1 em 50 fecha) ou **R$ 60 por MQL** (1 em 500 fecha).
+Para cada antecipação:
 
-> **Importante pro assistente:** se um lance de keyword tá pagando >R$ 100 por clique e a taxa de conversão de clique pra MQL é menor que 5%, o CAC explode. Pausa ou negativa imediato.
+Médico recebe à vista
+Bemm assume risco + operação
+Parceiro captura parte da margem
 
----
+Quanto mais uso, maior a receita recorrente
 
-## Como mostrar (ou não) preço nos ads
+Estratégia de pricing em ads
 
-- **Search Google:** **mostrar a partir de "R$ 12/funcionário"** funciona pra qualificar (filtra empresas pequenas que não chegam no mínimo). Testar.
-- **LinkedIn Ads:** não mostrar preço. Audiência sênior responde a posicionamento, não a preço.
-- **Meta:** raramente. Audiência B2B no Meta engaja com case e dor, não com preço.
+Google Search
 
----
+Mostrar: “sem custo inicial”, “ganhe nova receita”
+Não mostrar: % exato de taxa
 
-## Promoções e descontos vigentes
+LinkedIn
 
-- **Anual à vista:** 15% de desconto. Bom pra usar em ad de retargeting de quem viu demo e não fechou.
-- **Indicação:** 1 mês grátis pra quem indicou e pra quem fechou. Não usar em ad pago, é canal orgânico.
+Foco em: nova linha de receita + retenção
+Não falar preço
 
----
+Meta
 
-## Atualize quando
+Foco em curiosidade e dor
+Não falar preço
+Oferta de entrada (para conversão)
+Simulação de receita potencial
+Piloto com base reduzida
+Diagnóstico financeiro da operação
 
-- Mexer em preço (mexe em CAC alvo, em estratégia de lance, em copy)
-- Mudar plano ou regra de mínimo
-- Lançar promoção
-- Validar elasticidade (teste A/B de preço na LP)
+Objetivo: reduzir fricção e acelerar decisão
+
+O que NÃO fazemos
+Não cobramos setup
+Não cobramos licença
+Não vendemos software
+
+Monetizamos exclusivamente via uso
+
+Resumo
+
+O Bemm transforma um fluxo financeiro já existente em:
+
+Receita recorrente
+Retenção de médicos
+Diferenciação competitiva
+
+Sem custo inicial, sem risco e sem complexidade operacional.P)
