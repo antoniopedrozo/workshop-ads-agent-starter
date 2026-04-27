@@ -12,77 +12,159 @@
 
 ## Snapshot atual (atualizado em 2026-04)
 
-### Investimento mensal por canal
-| Canal      | Budget/mês  | CAC médio | Notas |
-|------------|-------------|-----------|-------|
-| Google Ads | R$ 35.000   | R$ 22.000 | Search domina, PMax desligado |
-| LinkedIn   | R$ 25.000   | R$ 38.000 | CAC alto mas LTV maior, sustenta |
-| Meta       | R$ 8.000    | R$ 45.000 | Em teste, cético do canal pra B2B RH |
+Status possíveis
+RODANDO
+KEEP (manter e escalar)
+ITERAR (ajustar e testar variação)
+PAUSED (não funcionou)
+Experimentos
+1. Google Search — "Antecipação plantão"
 
----
+Canal: Google Search
+Objetivo: Capturar demanda direta
 
-## Google Ads
+Hipótese:
+Médicos e gestores buscam diretamente por antecipação de plantões.
 
-### O que funciona
-- **Search "pesquisa de clima organizacional"** (e variações): CTR 6%, conv 4%, CAC R$ 18.000. Manter no ar.
-- **Search "engajamento de funcionários"**: CTR 5%, conv 3,5%, CAC R$ 24.000.
-- **Brand search ("acmerh", "acme rh")**: CAC R$ 1.500. Defesa contra concorrente que dá lance no nome.
-- **Estrutura de campanha:** 1 campanha por intent (clima | engajamento | feedback contínuo | brand). Não misturar.
+Keywords:
 
-### O que não funciona
-- **PMax**: subiu 2x, queimou R$ 40k cada vez. Lead quality péssima (autônomos, microempresas). Desligado.
-- **Display network**: zero conversão útil. Desligado.
-- **Search "software de RH"**: muito amplo, atrai folha/ponto. Negativado.
-- **Search "ATS" / "recrutamento"**: não somos isso. Negativado.
+antecipação plantão médico
+antecipar plantão
+receber plantão rápido
 
-### Negativações importantes (lista completa em `assets/negative-keywords-google.txt`)
-`folha de pagamento`, `ponto eletrônico`, `recrutamento`, `ats`, `currículo`, `gratis`, `tcc`, `apostila`, `concurso`, `curso`, `udemy`
+Copy:
+"Pague médicos em até 24h sem usar caixa"
+"Antecipe plantões direto no seu sistema"
 
-### Estratégia de lance
-- Brand: Target Impression Share, 90%
-- Search ICP: Maximize Conversions com tCPA R$ 600 (alvo SQL)
-- Brand de concorrente (Feedz, TeamCulture): Manual CPC, lance baixo (R$ 4 max), pra filtrar quem busca alternativa
+Budget/dia: R$ 100
+Gasto total: —
+CPA: —
+Ativações: —
 
-### Próximos testes
-- Search "como medir clima organizacional" (intent informacional, qualificar via LP educativa)
-- Performance Max só com audience signal de cargos de RH em empresas 100-500
+Status: RODANDO
 
----
+Aprendizado:
+A validar
 
-## LinkedIn Ads
+2. Google Search — "Pagar médico rápido"
 
-### O que funciona
-- **Sponsored Content com case study em PDF**: CTR 0,8%, MQL R$ 280, CAC R$ 32.000. Manter.
-- **Targeting:** Job title "Head of People", "Diretor de Recursos Humanos", "RH Business Partner" + Company Size 100-500 + Indústria "Tecnologia, Serviços Profissionais, Varejo"
-- **Conversation Ads** pra Heads de RH: Demo agendada R$ 1.200, CAC R$ 28.000. Boa eficiência mas volume baixo.
+Canal: Google Search
+Objetivo: Capturar dor operacional
 
-### O que não funciona
-- **Targeting por Skills** (ex: "Employee Engagement"): muito ruído, atinge consultor independente
-- **Lead Gen Form sem qualificação**: lead bruto, qualquer um preenche. Sempre incluir 1 pergunta filtro: "Tamanho da empresa".
-- **Vídeo de produto (45 segundos)**: caro demais pro engajamento que gera. Pausado.
+Hipótese:
+Gestores buscam soluções para pagamento rápido.
 
-### Próximos testes
-- Account-Based Marketing com lista de 200 empresas Tier 1 nominais
-- Document Ads (PDF nativo) com guia "10 perguntas pra fazer no próximo pulse"
+Keywords:
 
----
+pagar médico rápido
+pagamento plantão médico
+como pagar médico
 
-## Meta Ads
+Copy:
+"Resolva pagamentos médicos sem mexer no caixa"
+"Pague médicos em 24h sem virar banco"
 
-### O que funciona (parcialmente)
-- **Retargeting de visitantes da LP**: CPM baixo, traz de volta, mas conv abaixo do esperado (1%). Mantemos como assist.
+Budget/dia: R$ 80
+Status: RODANDO
 
-### O que não funciona
-- **Prospecting cold em B2B RH**: público profissional não consome conteúdo de B2B no Instagram. CAC R$ 80k+ em todos os testes. Pausado.
-- **Lookalike de clientes**: público fica grande demais e dilui. Não converte.
+Aprendizado:
+A validar
 
-### Próximos testes
-- Reels com depoimento real de Head de RH (UGC) pra prospecting frio
-- Decisão antes de janeiro/2026: se Meta não der CAC < R$ 50k em 90 dias, desligar canal
+3. LinkedIn — "Nova receita para software"
 
----
+Canal: LinkedIn Ads
+Objetivo: Parcerias B2B
 
-## Como gerar este arquivo automaticamente com Nekt + MCP
+Hipótese:
+Softwares querem monetizar base existente.
+
+Segmentação:
+
+Founder
+CEO
+Head de Produto
+CTO
+
+Setor:
+
+healthtech
+software médico
+
+Copy:
+"Seu software pode gerar receita em cada pagamento"
+"Nova linha de receita sem custo"
+
+Budget/dia: R$ 150
+
+Status: RODANDO
+
+Aprendizado:
+A validar
+
+4. LinkedIn — "Retenção de médicos"
+
+Canal: LinkedIn Ads
+
+Hipótese:
+Retenção é dor real para gestores.
+
+Copy:
+"Médicos saem por causa de pagamento"
+"Retenha pagando mais rápido"
+
+Status: RODANDO
+
+Aprendizado:
+A validar
+
+5. Meta Ads — "Curiosidade / dor"
+
+Canal: Meta
+
+Hipótese:
+Conteúdo educativo gera inbound indireto.
+
+Criativo:
+"Seu médico recebe em 90 dias?"
+"E se ele recebesse em 24h?"
+
+Status: RODANDO
+
+Aprendizado:
+A validar
+
+Experimentos futuros (pipeline)
+Google
+"software escala médica"
+"gestão de plantão"
+"reduzir turnover médico"
+LinkedIn
+Thought leadership (post fundador)
+Case de uso (ex: VivaCare)
+ROI / receita adicional
+Meta
+Conteúdo educativo
+Comparação (manual vs automático)
+Vídeo curto explicando fluxo
+Regras aprendidas (preencher com o tempo)
+Copy com número real performa melhor
+Dor direta > descrição de produto
+"Receber rápido" > "infraestrutura financeira"
+O que NÃO repetir
+
+(preencher conforme experimentos falham)
+
+Observações
+Search capta intenção direta
+LinkedIn educa e fecha
+Meta gera awareness
+Objetivo do arquivo
+
+Evitar repetição de erro
+Escalar o que funciona
+Criar inteligência própria de aquisição
+
+## Como usar o NEKT + claude
 
 Se você conectou sua conta Google Ads, Meta e LinkedIn na Nekt, rode no Claude:
 
