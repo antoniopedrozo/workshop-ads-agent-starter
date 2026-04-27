@@ -16,59 +16,329 @@ Sem ICP claro, o assistente vai mirar em qualquer um com dor parecida, queimar b
 
 ## ICP Tier 1 (north star, 70% do budget)
 
-### Empresa
-- **Setor:** serviços profissionais, tech, techfin, varejo digital
-- **Tamanho:** 100 a 300 funcionários
-- **Faturamento:** R$ 30M a R$ 200M/ano
-- **Estágio:** crescendo headcount 20%+ ao ano
-- **Geografia:** Brasil, com sede em capitais (SP, BH, POA, Floripa, Recife, Curitiba)
+Empresa
 
-### Estrutura interna
-- Tem **Head de Pessoas** ou **Head de RH** dedicado (não acumulado com Financeiro)
-- RH com pelo menos 3 pessoas
-- Usa **Slack ou Microsoft Teams** como ferramenta de comunicação interna principal
-- Tem cadência de 1:1 entre líder e liderado, mesmo que sem ferramenta
+Setor:
+Software de gestão de escalas médicas
+Software de gestão de corpo clínico
+Plataforma de gestão de plantões
+Software para cooperativas médicas
+Sistema de gestão operacional para saúde
 
-### Momento (gatilho de compra)
-- Acabaram de fazer pesquisa de clima manual via Google Forms ou SurveyMonkey e não conseguem extrair insight acionável
-- Tiveram aumento de turnover nos últimos 6 meses e estão perdendo gente sem entender por quê
-- Estão estruturando programa de feedback contínuo e os gestores não engajaram
-- Tem CEO/Conselho cobrando "métricas de gente"
+Tamanho:
+10 a 80 funcionários
+Time de tecnologia próprio
+Base ativa de médicos e gestoras
 
-### Comportamento de compra
-- Ticket esperado: R$ 1.500 a R$ 4.500/mês (100 a 300 funcionários × R$ 15)
-- Decisão envolve Head de RH (decisor) + Diretor Financeiro (validador) + às vezes CEO
-- Ciclo de venda: 30 a 60 dias
-- Pré-compra: pede demo, faz POC com um time piloto, valida com TI a integração Slack/Teams
+Faturamento:
+R$ 1M a R$ 20M/ano
 
+Estágio:
+Produto validado
+Base recorrente
+Crescendo clientes ou volume de escalas
+Buscando novas linhas de receita
+
+Geografia:
+Brasil
+Sede em capitais ou polos de saúde
+
+Exemplos típicos:
+
+SP
+BH
+POA
+Curitiba
+Florianópolis
+Recife
+Brasília
+
+Estrutura interna
+
+Tem Head de Produto, CTO ou Diretor de Operações dedicado
+Tem time técnico capaz de integrar APIs
+Tem equipe de suporte / operação
+Já integra com outros sistemas (ERP, hospital, financeiro etc.)
+Tem relacionamento direto com gestoras ou hospitais
+
+Usa:
+
+API-first architecture
+ou
+integrações externas regularmente
+
+Tem:
+
+backlog de produto ativo
+roadmap evolutivo
+foco em retenção de clientes
+Momento (gatilho de compra)
+
+Os sinais mais fortes:
+
+Recebem pedidos recorrentes de antecipação por parte dos médicos
+
+Gestoras reclamam de:
+
+demora no pagamento
+pressão financeira
+rotatividade médica
+
+Estão buscando:
+
+aumentar retenção de clientes
+criar diferencial competitivo
+gerar nova receita sem aumentar preço
+
+Ou:
+
+Estão perdendo médicos ou gestoras para concorrentes que pagam mais rápido
+
+Ou:
+
+Estão estruturando novos produtos financeiros
+
+Ou:
+
+Estão sendo cobrados por:
+
+churn
+retenção
+monetização
+Comportamento de compra
+
+Ticket esperado:
+
+Revenue share por operação
+
+ou
+
+R$ ______ a R$ ______ por mês
+(depende do volume de antecipação)
+
+Decisão envolve:
+
+CEO ou Founder (decisor final)
+CTO ou Head de Produto (validador técnico)
+Financeiro ou Operações (validador operacional)
+
+Ciclo de venda:
+
+30 a 90 dias
+
+Pré-compra:
+
+Solicita:
+
+reunião técnica
+validação de integração
+simulação financeira
+prova de conceito (piloto)
+
+Valida:
+
+risco
+operação
+impacto financeiro
+experiência do usuário
 ---
 
 ## ICP Tier 2 (qualificado mas menor prioridade, 25% do budget)
 
-- **Setor:** indústria, logística, healthtech
-- **Tamanho:** 300 a 500 funcionários
-- **Por que tier 2:** ciclo de venda mais longo (90+ dias), exige mais customização do dashboard, mas ticket é maior (R$ 4.500 a R$ 7.500/mês)
-- **Momento:** estão saindo de planilha + Power BI custom, querem consolidar
+Empresa
 
+Setor:
+
+Healthtech
+Startup de gestão médica
+Plataforma regional de escalas
+Marketplace médico
+
+Tamanho:
+
+3 a 10 funcionários
+Base de médicos em crescimento
+
+Faturamento:
+
+R$ 200K a R$ 1M/ano
+
+Por que Tier 2
+
+Tem potencial
+Mas:
+
+volume menor
+ciclo mais longo
+impacto financeiro menor
+maior necessidade de suporte
+Momento
+
+Estão:
+
+Saindo de planilha ou processo manual
+
+ou
+
+Estruturando produto
+
+ou
+
+Crescendo base de clientes
+
+ou
+
+Buscando diferenciação
+
+Mas ainda:
+
+Não têm escala suficiente
+
+Comportamento
+
+Demora mais para decidir
+
+Precisa de mais explicação
+
+Precisa de mais suporte
+
+Tem menos maturidade operacional
+
+Ciclo de venda:
+
+60 a 120 dias
 ---
 
 ## Anti-ICP (NÃO mirar)
 
-- **Empresas com mais de 1.000 funcionários:** ciclo enterprise, exigem SOC 2 Type II, SSO SAML, compliance jurídico longo. Não temos ainda.
-- **Empresas com menos de 50 funcionários:** não têm RH dedicado, churn altíssimo (cancelam em 3 meses), ticket não cobre custo de aquisição
-- **Agências de RH e consultorias de gente:** querem revender ou rebrandear, não somos plataforma white-label
-- **Setor público:** processo licitatório que não compensa
-- **Empresas que não usam Slack ou Teams:** sem chat, nossa principal interface não funciona. Algumas usam só email + WhatsApp.
+Empresas que NÃO são alvo
+
+Clínicas médicas individuais
+
+Hospitais sem software próprio
+
+Médicos pessoa física
+
+Consultórios pequenos
+
+Software sem base ativa
+
+Empresas fora da saúde
+
+Operação manual
+
+Tamanho — NÃO mirar
+
+Menos de:
+
+50 médicos ativos
+
+ou
+
+500 plantões por mês
+
+ou
+
+R$ 100 mil/mês em repasses
+
+Estrutura — NÃO mirar
+
+Não tem:
+
+Time técnico
+
+API
+
+Sistema próprio
+
+Base recorrente
+
+Momento — NÃO mirar
+
+Ainda validando produto
+
+Ainda em MVP
+
+Sem clientes ativos
+
+Sem volume financeiro
+
+Sem operação recorrente
+
+Comportamento — NÃO mirar
+
+Quer:
+
+Testar sem compromisso
+
+Entender primeiro
+
+Avaliar por muito tempo
+
+Ou:
+
+Não quer integrar
+
+Não quer assumir operação
+
+Não quer monetizar
+
+Casos específicos — NÃO mirar
+
+Setor público
+(coisa licitatória longa e baixa previsibilidade)
+
+Consultorias
+(querem revender solução)
+
+Software white-label puro
+(não controla base)
+
+Operações sem recorrência
 
 ---
 
 ## Como saber se virou ICP
 
-Sinais de que uma conta é ICP de verdade (não só parecia):
-- **Ativação:** primeira pulse rodada na primeira semana
-- **Engajamento:** 70%+ de taxa de resposta sustentada por 4 semanas
-- **Expansão:** RH inicia rollout pra mais times no segundo trimestre
-- **Indicação:** Head de RH adiciona AcmeRH no LinkedIn como ferramenta que usa
+Sinais claros de ICP real
+
+Integração técnica iniciada
+
+Primeiro cliente ativado
+
+Primeira antecipação realizada
+
+Uso recorrente do produto
+
+Métricas de ativação
+
+Primeira antecipação:
+
+até 30 dias após integração
+
+Métricas de engajamento
+
+Uso recorrente por médicos
+
+ou
+
+Volume crescente de antecipação
+
+Métricas de expansão
+
+Novas gestoras aderindo
+
+ou
+
+Aumento do volume financeiro
+
+Métricas de indicação
+
+Software recomenda a solução para novos clientes
+
+ou
+
+Integra a solução como funcionalidade padrão
 
 ---
 
