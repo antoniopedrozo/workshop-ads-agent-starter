@@ -10,46 +10,85 @@
 **AcmeRH**
 
 ## O que é (em uma frase)
-SaaS B2B brasileiro de pesquisa de clima organizacional e feedback contínuo, pra times de 50 a 500 pessoas que querem entender engajamento sem montar planilha.
+O Bemm é a infraestrutura financeira brasileira que transforma plantões médicos em liquidez imediata por meio da antecipação de pagamentos, garantindo previsibilidade para o profissional e eficiência para a operação.
 
 ## O que faz (em três bullets)
-- Envia **pulse surveys semanais** automáticas pros funcionários via Slack ou Microsoft Teams (3 perguntas, 30 segundos pra responder)
-- Calcula **eNPS, engajamento e risco de churn de talento** num dashboard ao vivo pro RH e gestores
-- Disponibiliza **templates de 1:1 e feedback contínuo** que gestores usam direto na ferramenta
+- Antecipa pagamentos de plantões médicos, transformando produção em liquidez imediata
+- Automatiza repasses e conciliações financeiras, reduzindo burocracia e erros operacionais
+- Fornece infraestrutura financeira integrada, permitindo que empresas e softwares operem com previsibilidade e escala
 
 ## Quem usa
-- **Comprador (decisor):** Head de Pessoas, Head de RH, Diretor de Gente
-- **Usuário operacional (admin):** analista de RH ou Business Partner
-- **Usuário consumidor (gestor):** líderes de time que recebem dashboard do próprio time
-- **Usuário final:** funcionário que responde pulse uma vez por semana
+Quem decide:
+Sócio / Diretor da gestora médica
+Diretor financeiro / administrativo
+Founder ou CEO do software de gestão de escalas
+Gestor hospitalar responsável por contratos médicos
+
+Quem opera:
+Equipe financeira / faturamento
+Backoffice da gestora ou clínica
+Operador de escala / administrativo
+Equipe operacional do software
+
+Quem consome:
+Médico plantonista
+Prestador de serviço médico (PJ)
+Empresa médica / grupo de médicos
 
 ## Como funciona (jornada de 30 segundos)
-1. RH conecta o Slack/Teams da empresa em 1 clique (OAuth)
-2. Importa lista de funcionários do RH (Gupy, Sólides, Senior, planilha)
-3. Configura organograma e cadência de pulse (default: semanal, segunda 10h)
-4. Funcionários recebem pulse direto no chat, respondem em 30s
-5. Dashboard é atualizado em tempo real, RH e gestores acompanham
+1. O médico solicita a antecipação
+Clica no botão dentro do sistema ou aplicativo e escolhe o plantão que deseja antecipar.
+
+↓
+
+2. O Bemm analisa e aprova automaticamente
+O sistema valida o valor e calcula a antecipação em segundos.
+
+↓
+
+3. O dinheiro cai na conta
+O médico recebe o pagamento em até 24 horas, sem mudar a rotina da operação.
+
+↓
+
+4. A gestora paga no prazo normal
+Nada muda no fluxo financeiro da empresa — apenas a experiência do médico melhora.
 
 ## Stack técnica relevante (pra ads contextuais)
-- Integrações nativas com **Slack, Microsoft Teams, Gupy, Sólides, Senior, Totvs**
-- API aberta pra integração com BI (Power BI, Looker, Metabase)
-- LGPD compliant, dados em servidor BR
+Integrações
+APIs REST • Webhooks • Integração com ERPs e softwares de escala
+
+Pagamentos
+Pix automatizado • Conciliação financeira • Motor de liquidação
+
+Segurança
+Criptografia • Controle de acesso • Auditoria de operações
+
+Infraestrutura
+Cloud • Escalabilidade • Alta disponibilidade
 
 ## O que NÃO somos
 Não somos:
-- ATS (sistema de recrutamento) — integramos com Gupy, mas não substituímos
-- Folha/ponto — integramos com Senior/Totvs, mas não fazemos isso
-- Plataforma de OKRs (somos focados em clima e feedback, não em metas)
+Não somos um banco
+Não captamos depósitos nem substituímos instituições financeiras.
 
-## Site e materiais
-- LP principal: acmerh.com.br
-- Demo: acmerh.com.br/demo
-- Materiais técnicos: acmerh.com.br/recursos
+Não somos uma factoring tradicional
+Não operamos com modelos burocráticos ou desconectados da operação médica.
+
+Não somos um empréstimo para o médico
+Antecipamos valores já produzidos, trazendo liquidez sem gerar endividamento.
+
+Não somos apenas um software
+Somos a infraestrutura financeira que conecta operação, pagamento e liquidez.
+
 
 ## Provas sociais que usamos em ads
-- "+200 empresas brasileiras"
-- "92% de taxa de resposta semanal" (mediana das contas ativas)
-- Cases públicos: Empresa A (varejo, 320 func), Empresa B (techfin, 180 func), Empresa C (logística, 450 func)
+- + R$ 1.000.000
+Já antecipado pela nossa operação
+- + 2.500
+Plantões processados pela nossa base
+- O Bemm faz parte de um dos maiores ecossistemas digitais do Brasil
+Grupo four com empresas como Raiô, south summit brasil, wine locals, ground, 4all, uhuu, operação em mais de 5 países, mais de 2bi transacionados mês, tecnologia robusta, produtos costumizados, ja atendemos empresas como postos ipiranga, unimed, atletico de madri, itau, piza dominos, claro, outback, ambev e +
 
 ---
 
