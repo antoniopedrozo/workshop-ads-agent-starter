@@ -86,6 +86,8 @@ Somos a infraestrutura financeira que conecta operação, pagamento e liquidez.
 Já antecipado pela nossa operação
 - + 2.500
 Plantões processados pela nossa base
+Até 24 horas
+para o médico receber após o plantão
 - O Bemm faz parte de um dos maiores ecossistemas digitais do Brasil
 Grupo four com empresas como Raiô, south summit brasil, wine locals, ground, 4all, uhuu, operação em mais de 5 países, mais de 2bi transacionados mês, tecnologia robusta, produtos costumizados, ja atendemos empresas como postos ipiranga, unimed, atletico de madri, itau, piza dominos, claro, outback, ambev e +
 
