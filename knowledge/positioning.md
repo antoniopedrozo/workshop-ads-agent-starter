@@ -8,20 +8,89 @@
 
 ## Frase de positioning
 
-> Pra **times de RH de empresas brasileiras de 100 a 300 pessoas** que precisam **entender clima e engajamento sem montar planilha**, a AcmeRH é a **plataforma de pulse e feedback contínuo** que **roda dentro do Slack e Teams** com **templates pensados pra cultura brasileira**, ao invés de ferramentas gringas que exigem treinar gestor e adaptar terminologia.
+> Pra softwares de gestão de escala médica que precisam aumentar retenção de clientes e gerar nova receita sem virar banco, a Bemm é a infraestrutura financeira para antecipação e pagamentos na saúde que integra liquidez direto no sistema, sem exigir capital, time de crédito ou regulação, ao invés de desenvolver internamente ou continuar operando pagamentos manualmente..
 
-Estrutura: pra QUEM, que precisa de QUE, somos CATEGORIA, que entrega DIFERENCIAL, ao invés de ALTERNATIVA.
+Estrutura:Pra QUEM
+Softwares de gestão de escala médica
+
+Que precisa de QUE
+Gerar receita, reter clientes e resolver o fluxo financeiro
+
+Somos CATEGORIA
+Infraestrutura financeira
+
+Que entrega DIFERENCIAL
+Liquidez integrada sem risco, sem capital e sem operação financeira
+
+Ao invés de ALTERNATIVA
+Desenvolver internamente ou operar manualmente
 
 ---
 
 ## Jobs to be done
 
-O que o cliente está tentando fazer quando contrata a AcmeRH:
+O que o cliente (software) está tentando fazer quando contrata a Bemm.
 
-1. **Diagnóstico:** "preciso saber se meu time tá feliz antes que alguém pedi demissão"
-2. **Reporte ao Conselho:** "preciso de um número de eNPS pra mostrar no board todo mês"
-3. **Capacitação de gestores:** "meus líderes não dão feedback contínuo, preciso de uma muleta"
-4. **Defesa do orçamento de RH:** "preciso provar que iniciativas de cultura estão movendo o ponteiro"
+Cada job vira um ângulo de copy.
+1) Retenção
+
+"Preciso evitar que meus clientes troquem de sistema"
+
+Isso é o principal driver.
+
+Ângulo de copy:
+
+Aumente a retenção sem baixar preço
+ou
+Transforme seu software em infraestrutura crítica
+
+2) Monetização
+
+"Preciso criar nova receita sem vender novo módulo"
+
+Ângulo de copy:
+
+Ganhe receita em cada pagamento processado
+
+ou
+
+Transforme fluxo financeiro em receita recorrente
+
+3) Diferenciação competitiva
+
+"Preciso ter algo que meu concorrente não tem"
+
+Ângulo de copy:
+
+Se você não controla o financeiro, outro vai controlar
+
+ou
+
+Quem paga primeiro ganha o médico
+
+4) Redução de esforço operacional
+
+"Preciso parar de resolver problema financeiro manualmente"
+
+Ângulo de copy:
+
+Pare de conciliar pagamento manual
+
+ou
+
+Automatize o financeiro sem criar um banco
+
+5) Escala
+
+"Preciso crescer sem aumentar custo operacional"
+
+Ângulo de copy:
+
+Cresça o volume sem crescer o time
+
+ou
+
+Escala financeira sem infraestrutura financeira
 
 Cada job vira um ângulo de copy diferente. Job 1 é o mais comum em ads de search ("pesquisa de clima organizacional"); job 4 é o mais convincente em LinkedIn pra C-level.
 
@@ -29,60 +98,296 @@ Cada job vira um ângulo de copy diferente. Job 1 é o mais comum em ads de sear
 
 ## Alternativas (quem o cliente está considerando)
 
-### 1. Status quo: planilha + Google Forms
-- **A favor:** custo zero, RH já sabe usar
-- **Contra:** dá trabalho extra todo mês, taxa de resposta despenca, sem dashboard
-- **Como ganhamos:** "pare de montar planilha. Pulse direto no Slack, dashboard pronto."
+1) Status quo — planilha / processo manual
 
-### 2. Concorrentes brasileiros
-- **Feedz:** forte em performance review e OKRs. Pulse é secundário.
-- **TeamCulture:** próximo do nosso escopo, mais focado em cultura e PDI
-- **Qulture.Rocks:** robusto em performance, integra ATS, ticket maior
-- **Sólides:** ERP de RH completo (folha, ponto, perfil comportamental), pulse é módulo
+A favor:
 
-**Como ganhamos:**
-- Vs Feedz: "pulse de verdade, não checkbox de feature. Dashboard semanal, não trimestral."
-- Vs TeamCulture: "integração nativa Slack/Teams sem treinar gestor"
-- Vs Qulture: "começa em 30 minutos, não em 3 meses de implementação"
-- Vs Sólides: "se você já tem folha e ponto, plug a AcmeRH só pra clima. Sem trocar tudo."
+Custo zero
+Já funciona
+Controle interno
 
-### 3. Concorrentes gringos
-- **CultureAmp:** referência de mercado, ticket 3x maior, dashboard em inglês
-- **Lattice:** combo performance + engajamento, ticket alto, gestor brasileiro estranha terminologia
-- **15Five:** próximo do nosso escopo, sem suporte em PT, sem LGPD-compliant local
+Contra:
 
-**Como ganhamos:**
-- "Plataforma brasileira pra gestor brasileiro. Templates em português que fazem sentido na nossa cultura."
-- "Dados em servidor BR, contrato em CNPJ, suporte em horário comercial Brasília."
+Erro manual
+Retrabalho
+Demora no pagamento
+Baixa retenção
+Sem receita nova
+
+Como a Bemm ganha:
+
+Automatização sem mudar o sistema
+
+ou
+
+Liquidez sem operação manual
+
+Mensagem:
+
+Pare de gerenciar pagamento manualmente
+
+2) Desenvolver internamente
+
+Essa é a alternativa mais comum.
+
+A favor:
+
+Controle total
+Receita interna
+Customização
+
+Contra:
+
+Tempo longo (12+ meses)
+Alto custo
+Risco regulatório
+Risco de crédito
+Necessidade de funding
+
+Como a Bemm ganha:
+
+Vai ao ar em meses
+Sem risco
+Sem capital
+Sem operação
+
+Mensagem:
+
+Construa produto, não banco
+
+3) Fintech ou banco tradicional
+
+A favor:
+
+Marca conhecida
+Estrutura financeira
+
+Contra:
+
+Não entende operação médica
+Integração difícil
+Experiência ruim
+Sem foco em escala
+
+Como a Bemm ganha:
+
+Produto desenhado para escala médica
+
+Mensagem:
+
+Infraestrutura feita para saúde, não genérica
+
+4) Concorrente indireto — factoring / crédito pontual
+
+A favor:
+
+Liquidez rápida
+
+Contra:
+
+Não integrado
+Experiência ruim
+Sem recorrência
+Sem retenção
+
+Como a Bemm ganha:
+
+Liquidez dentro do sistema
+
+Mensagem:
+
+Liquidez sem sair da plataforma
 
 ---
 
 ## Mensagens-chave (testadas e validadas em ads)
 
-### Pros decisores (Head de RH)
-- **Dor:** "Sua planilha de clima já não dá conta?"
-- **Promessa:** "Pulse semanal direto no Slack. Dashboard pronto pra mostrar no board."
-- **Prova:** "+200 empresas. 92% de taxa de resposta."
+Decisor — CEO / Founder
 
-### Pros validadores (Diretor Financeiro)
-- **Dor:** "Quanto custa um turnover não previsto?"
-- **Promessa:** "Identifique risco de saída antes de virar contraproposta."
-- **Prova:** "Cases mostram redução de 18% no turnover voluntário em 6 meses."
+Dor:
 
-### Pro CEO/Conselho
-- **Dor:** "Como você sabe se sua cultura tá saudável de verdade?"
-- **Promessa:** "Métricas de gente que conversam com métricas de negócio."
-- **Prova:** "Cultura mensurada, decisão informada."
+Seu software pode ser substituído a qualquer momento
+
+Promessa:
+
+Transforme seu produto em infraestrutura crítica
+
+Prova:
+
+Nova receita recorrente sem aumentar preço
+
+Outra variação:
+
+Dor:
+
+Você está deixando dinheiro na mesa
+
+Promessa:
+
+Capture receita em cada pagamento
+
+Prova:
+
+Revenue share desde o primeiro mês
+
+Validador — CTO / Head de Produto
+
+Dor:
+
+Criar infraestrutura financeira do zero é complexo
+
+Promessa:
+
+API pronta, integração rápida
+
+Prova:
+
+Integração em semanas, não meses
+
+Outra:
+
+Dor:
+
+Seu time não foi contratado para operar crédito
+
+Promessa:
+
+Nós operamos o financeiro
+
+Prova:
+
+Zero necessidade de time financeiro interno
+
+Influenciador — Operações / Financeiro
+
+Dor:
+
+Pagamento manual gera erro e retrabalho
+
+Promessa:
+
+Automatização financeira completa
+
+Prova:
+
+Conciliação automática e redução de suporte
+
+Outra:
+
+Dor:
+
+Seu time perde tempo resolvendo pagamento
+
+Promessa:
+
+Pagamento automático
+
+Prova:
+
+Relatório pronto para o financeiro
 
 ---
 
+Modelo de cobrança
+
+Revenue share por operação
+
+ou
+
+Take rate sobre antecipação
+
+Ticket médio
+
+Depende do volume.
+
+Mas operacionalmente:
+
+R$ 5.000 a R$ 50.000 / mês
+
+ou
+
+0,5% a 3% do volume financeiro
+
+CAC alvo
+
+Ideal:
+
+1 a 3 meses de receita
+
+ou
+
+Menos de:
+
+R$ 10.000 por cliente
+
+Quando mostrar preço nos ads
+
+Google Search
+
+Sim
+
+Porque:
+
+intenção alta
+
+LinkedIn
+
+Não
+
+Porque:
+
+venda consultiva
+
+Meta
+
+Raramente
+
+Porque:
+
+descoberta de produto
+
+Resumo prático:
+
+Search:
+
+Mostra faixa
+
+LinkedIn:
+
+Mostra valor
+
+Meta:
+
+Mostra benefício
+
+----
+
 ## O que NÃO falar nos ads
 
-- "Software de RH" (genérico demais, atrai folha/ponto)
-- "Gestão de pessoas" (compete com tudo)
-- "Avaliação de desempenho" (não é nosso foco, gera lead errado)
-- Comparação direta nominal com concorrente (proibido pelas plataformas em alguns casos, e gera resposta institucional dos concorrentes)
+Não falar:
 
+Empréstimo
+Financiamento
+Crédito pessoal
+Banco
+Conta digital
+Pix
+Empréstimo médico
+
+Isso atrai:
+
+Pessoa física
+Lead errado
+Baixa conversão
+
+Falar:
+
+Infraestrutura financeira
+Automação financeira
+Antecipação integrada
+Revenue share
+Retenção de clientes
+Nova receita
 ---
 
 ## Atualize quando
