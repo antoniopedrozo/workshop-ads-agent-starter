@@ -2,7 +2,7 @@
 
 > **O que é este arquivo:** descrição de **por que** o cliente escolhe você vs as alternativas. O assistente usa isso pra escrever copy que diferencia, não copia o discurso do concorrente.
 >
-> Exemplo abaixo: AcmeRH. Substitua pelo seu produto.
+
 
 ---
 
